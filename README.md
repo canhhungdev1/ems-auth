@@ -1,2 +1,10 @@
-# ems-auth
-Authentication service for EMS (Expense Management System)
+# EMS Auth Service
+Authentication service for EMS
+
+## Features
+- Login / Register
+- JWT + Refresh Token
+- Password hashing
+
+## Run
+docker-compose up esm-auth
